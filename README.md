@@ -4,9 +4,20 @@
 
 
 
-🐶 I’m interested in create projects to help friends, familly and help them in their own business 
-🌱 I’m currently learning NextJs after practise some ReactJs -> It's a long way to the top, but I love it! 😁
+🐶 I’m interested in create projects to help friends and familly to improve their business on the WW.  
+🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
+😅By the way, you cant take a look to my last projects, They are not projects that are going to change the world, but...
+
+- 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com) 
+- 🛹[TODO - Vanilla JS](https://danielmateu.github.io/TODO-webpack---Vanilla-JS/) 
+- ♣️[Black Jack](https://black-jack-seven.vercel.app/) 
+- 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
+
+# Of course you can also review my repositories if you want! 🥰
+
 👾 I’m looking to collaborate on ReactJS projects as a Front End developer.
+
+
 ````
 💀 Do you want to reach me? 👇
 ````
