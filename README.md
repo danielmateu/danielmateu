@@ -6,7 +6,7 @@
 
 🐶 I’m interested in create projects to help friends and familly to improve their business on the WWW.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
-😅By the way, you cant take a look to my last projects, They are not projects that are going to change the world, but...
+# 😅By the way, you cant take a look to my last projects, They are not projects that are going to change the world, but...
 
 - 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com) 
 - 🛹[TODO - Vanilla JS](https://danielmateu.github.io/TODO-webpack---Vanilla-JS/) 
