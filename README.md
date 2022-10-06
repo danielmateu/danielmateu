@@ -21,12 +21,14 @@
 ````
 💀 Do you want to reach me? 👇
 ````
+![PresentingEddieMunsonGIF](https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif)
+
 # 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
 
 # 🥨[Instagram](https://www.instagram.com/danimateu86/) 📫[My portofolio](https://www.danielmateu.es)
 
 
-![PresentingEddieMunsonGIF](https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif)
+
 
 
 <!---
