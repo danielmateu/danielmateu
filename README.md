@@ -13,7 +13,7 @@
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
 - 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)  
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
-- 🛹[TODO - Vanilla JS](https://danielmateu.github.io/TODO-webpack---Vanilla-JS/)
+<!-- - 🛹[TODO - Vanilla JS](https://danielmateu.github.io/TODO-webpack---Vanilla-JS/) -->
 
 
 
