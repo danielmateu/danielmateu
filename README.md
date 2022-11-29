@@ -9,6 +9,7 @@
 # 😅By the way, you cant take a look to my last projects, They are not projects that are going to change the world, but...
 
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
+- 💸[Cripto-App](https://cryptos-psi.vercel.app/)
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
 - 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)  
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
