@@ -4,7 +4,7 @@
 
 
 
-🐶 I’m interested in create projects to help friends and familly to improve their business on the WWW.  
+🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
