@@ -6,7 +6,7 @@
 
 🐶 I’m interested in create projects to help friends and familly to improve their business on the WWW.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
-# 😅By the way, you cant take a look to my last projects, They are not projects that are going to change the world, but...
+# 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
@@ -14,8 +14,6 @@
 - 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)  
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
 <!-- - 🛹[TODO - Vanilla JS](https://danielmateu.github.io/TODO-webpack---Vanilla-JS/) -->
-
-
 
 # Of course you can also review my repositories if you want! 🥰
 
@@ -27,9 +25,10 @@
 ````
 ![PresentingEddieMunsonGIF](https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif)
 
-# 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
-
-# 🥨[Instagram](https://www.instagram.com/danimateu86/) 📫[My portofolio](https://www.danielmateu.es)
+# 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 
+# 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
+# 🥨[Instagram](https://www.instagram.com/danimateu86/)
+# 📫[My portofolio](https://www.danielmateu.es)
 
 
 
