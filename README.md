@@ -8,6 +8,7 @@
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
+-- 🎸[GuitarLA-NEXT](https://gitarla-remix.vercel.app/)
 - 🎸[GuitarLA-REMIX](https://gitarla-remix.vercel.app/)
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
