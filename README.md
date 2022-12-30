@@ -10,7 +10,7 @@
 
 - ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-dmp.vercel.app/)
 - 🎸[GuitarLA-NEXT](https://guitarla-next-black-mu.vercel.app/)
-- 🎸[GuitarLA-REMIX](https://gitarla-remix.vercel.app/)
+<!-- - 🎸[GuitarLA-REMIX](https://gitarla-remix.vercel.app/) -->
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
