@@ -14,7 +14,8 @@
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
-- 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)  
+- 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)
+- ❌[TIC-TAC-TOE](https://tic-tac-toe-ecru-two.vercel.app/)
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
 
 # Of course you can also review my repositories if you want! 🥰
