@@ -9,7 +9,7 @@
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
 - 🦄[Uptask-app, Proyecto Mern Stack con Tailwind, Headless UI, Context API, Socket IO](https://nuktask-mern.netlify.app/)
-- ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-dmp.vercel.app/)
+- ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-next.vercel.app/)
 - 🎸[GuitarLA-NEXT](https://guitarla-next-black-mu.vercel.app/)
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
