@@ -2,6 +2,9 @@
 
 # Hi, it's @danielmateu here! 
 
+🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
+🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
+
 ```
 const aboutMe = {
   name: "Daniel Mateu",
@@ -13,14 +16,17 @@ const aboutMe = {
          },
    motivation: {
         soft_skills: [“Empathy”, “Reasoning”, “Change management”, “Flexibility”, “Active Learning”]},
-        project: "I am currently training as a Full Stack Seveloper, it inspires me to learn frontend and backend 
-                  every day to improve my professional skills, and to be part of a team",
+        hard_skills: {
+          front_end: [“HTML”, “CSS”, “JS”, “TS”, “ES22”, “ReactJS”, “NextJS”, “Angular”, “Tailwind”, “Bootstrap”, “SASS”]],
+          back_end: [[“NodeJS”, “Express”, “Docker”, “Postman”, “REST Server”, “Socket Server”, “npm”],
+	        data_base: [“MySQL”, “PostgreSQL”, “MongoDB”],
+          testing: ["JEST", "Cypress"]
+        }
+        project: "Learning everyday as much as I can! 😁",
                  },
        }
 ```
 
-🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
-🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
 - 🦄[Uptask-app, Proyecto Mern Stack con Tailwind, Headless UI, Context API, Socket IO](https://nuktask-mern.netlify.app/)
