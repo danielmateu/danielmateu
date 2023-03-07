@@ -3,6 +3,7 @@
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
 
+<!--
 ```
 const aboutMe = {
   name: "Daniel Mateu",
@@ -23,6 +24,8 @@ const aboutMe = {
   project: "Learning everyday as much as I can! 😁",
        }
 ```
+
+-->
 
 <p align="center">
   <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
