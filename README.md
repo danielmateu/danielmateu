@@ -2,7 +2,20 @@
 
 # Hi, it's @danielmateu here! 
 
-
+const aboutMe = {
+  name: "Daniel Mateu",
+  role: "Junior FullStack Developer",
+  data: { 
+      Linkedin: "https://www.linkedin.com/in/daniel-mateu-pardo/",
+      Porfolio: "https://daniel-mateu-portfolio.vercel.app/"
+      Resume: "https://github.com/danielmateu",
+         },
+   motivation: {
+        soft_skills: [“Empathy”, “Reasoning”, “Change management”, “Flexibility”, “Active Learning”]},
+        project: "I am currently training as a Full Stack Seveloper, it inspires me to learn frontend and backend 
+                  every day to improve my professional skills, and to be part of a team",
+                 },
+       }
 
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
