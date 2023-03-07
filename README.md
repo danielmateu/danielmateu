@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-xxzQ+NjzkrLTJrWr6AdeyjxngLvVi7CUQ1RKaXuhkcKjFGrvFaVqELoPqNPzJw2B" crossorigin="anonymous">
 
 
 # Hi, it's @danielmateu here! 
@@ -25,6 +26,8 @@ const aboutMe = {
   project: "Learning everyday as much as I can! 😁",
        }
 ```
+
+<i class="fab fa-js"></i>
 
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
