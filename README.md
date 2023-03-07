@@ -52,15 +52,17 @@ const aboutMe = {
   <img src="https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif" alt="This is an image" width='600px'>
 </p>
 
-
-
-
 # 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 
 # 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
 # 🥨[Instagram](https://www.instagram.com/danimateu86/)
 # 📫[My portfolio](https://daniel-mateu-portfolio.vercel.app/)
 
-
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmateu)](https://github.com/danielmateu/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmateu)](https://github.com/danielmateu/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmateu&layout=compact" alt="This is an image" width='600px'>
+</p>
 
 
 
