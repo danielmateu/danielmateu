@@ -2,6 +2,7 @@
 
 # Hi, it's @danielmateu here! 
 
+´´´
 const aboutMe = {
   name: "Daniel Mateu",
   role: "Junior FullStack Developer",
@@ -16,6 +17,7 @@ const aboutMe = {
                   every day to improve my professional skills, and to be part of a team",
                  },
        }
+ ´´´
 
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
