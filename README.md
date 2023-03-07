@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-xxzQ+NjzkrLTJrWr6AdeyjxngLvVi7CUQ1RKaXuhkcKjFGrvFaVqELoPqNPzJw2B" crossorigin="anonymous">
-
-
 # Hi, it's @danielmateu here! 
 
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
@@ -27,7 +24,7 @@ const aboutMe = {
        }
 ```
 
-<i class="fab fa-js"></i>
+![This is an image](https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png)
 
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
