@@ -24,7 +24,9 @@ const aboutMe = {
        }
 ```
 
-![This is an image](https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png)
+<p align="center">
+  <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
+</p>
 
 # 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
 
@@ -46,7 +48,12 @@ const aboutMe = {
 ````
 💀 Do you want to reach me? 👇
 ````
-![PresentingEddieMunsonGIF](https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif" alt="This is an image" width='600px'>
+</p>
+
+
+
 
 # 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 
 # 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
