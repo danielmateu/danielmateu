@@ -14,16 +14,15 @@ const aboutMe = {
       Porfolio: "https://daniel-mateu-portfolio.vercel.app/"
       Resume: "https://github.com/danielmateu",
          },
-   motivation: {
-        soft_skills: [“Empathy”, “Reasoning”, “Change management”, “Flexibility”, “Active Learning”]},
+  motivation: {
+        soft_skills: [“Empathy”, “Reasoning”, “Change management”, “Flexibility”, “Active Learning”],
         hard_skills: {
-          front_end: [“HTML”, “CSS”, “JS”, “TS”, “ES22”, “ReactJS”, “NextJS”, “Angular”, “Tailwind”, “Bootstrap”, “SASS”]],
-          back_end: [[“NodeJS”, “Express”, “Docker”, “Postman”, “REST Server”, “Socket Server”, “npm”],
-	        data_base: [“MySQL”, “PostgreSQL”, “MongoDB”],
+          front_end: [“HTML”, “CSS”, “JS”, “TS”, “ES22”, “ReactJS”, “NextJS”, “Angular”, “Tailwind”, “Bootstrap”, “SASS”],
+          back_end: [“NodeJS”, “Express”, “Docker”, “Postman”, “REST Server”, “Socket Server”, “npm”],
+	  data_base: [“MySQL”, “PostgreSQL”, “MongoDB”],
           testing: ["JEST", "Cypress"]
-        }
-        project: "Learning everyday as much as I can! 😁",
-                 },
+        },
+  project: "Learning everyday as much as I can! 😁",
        }
 ```
 
