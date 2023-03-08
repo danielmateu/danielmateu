@@ -31,7 +31,7 @@ const aboutMe = {
   <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
 </p>
 
-# 😅By the way, you can take a look to my last projects, They are not projects that are going to change the world, but...
+# 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
 - 🦄[Uptask-app, Proyecto Mern Stack con Tailwind, Headless UI, Context API, Socket IO](https://nuktask-mern.netlify.app/)
 - ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-next.vercel.app/)
