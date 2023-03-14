@@ -34,13 +34,13 @@ const aboutMe = {
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
 - 🦄[4-Frame](https://four-frame.vercel.app/)
-- ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-next.vercel.app/)
-- 🎸[GuitarLA-NEXT](https://guitarla-next-black-mu.vercel.app/)
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
-- 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)
 - ❌[TIC-TAC-TOE](https://tic-tac-toe-ecru-two.vercel.app/)
+- ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-next.vercel.app/)
+- 🎸[GuitarLA-NEXT](https://guitarla-next-black-mu.vercel.app/)
+- 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
 
 # Of course you can also review my repositories if you want! 🥰
