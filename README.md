@@ -36,6 +36,7 @@ const aboutMe = {
 - 🦄[4-Frame](https://four-frame.vercel.app/)
 - 🐥[CRM](https://crm-cliente-next.vercel.app/)
 - 🗺️[My-cutie-maps](https://my-cuty-maps.netlify.app/)
+- 🎸[Bandnames](https://bandnames-vite.vercel.app/)
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
 - 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
