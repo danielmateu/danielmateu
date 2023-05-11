@@ -34,6 +34,7 @@ const aboutMe = {
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
 - 🦄[4-Frame](https://four-frame.vercel.app/)
+- 🎫[Ticket-App-SocketIO](https://ticket-app-virid.vercel.app)
 - 🐥[CRM](https://crm-cliente-next.vercel.app/)
 - 🗺️[My-cutie-maps](https://my-cuty-maps.netlify.app/)
 - 🎸[Bandnames](https://bandnames-vite.vercel.app/)
