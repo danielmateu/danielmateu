@@ -33,6 +33,7 @@ const aboutMe = {
 
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
+- 🪅[Spotify Clone](https://spotify-clone-dmp.vercel.app/)
 - 🦄[4-Frame](https://four-frame.vercel.app/)
 - 🎫[Ticket-App-SocketIO](https://ticket-app-virid.vercel.app)
 - 🐥[CRM](https://crm-cliente-next.vercel.app/)
