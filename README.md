@@ -33,7 +33,9 @@ const aboutMe = {
 
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
+- 🏠[Airbnb Clone](https://my-places-chi.vercel.app/)
 - 🐶[NUKO IA](https://ai-sass-mu.vercel.app/)
+- 🧙‍♂️[Dudes AI](https://ai-dudes.vercel.app/)
 - 🪅[Spotify Clone](https://spotify-clone-dmp.vercel.app/)
 - 🦄[4-Frame](https://four-frame.vercel.app/)
 - 🎫[Ticket-App-SocketIO](https://ticket-app-virid.vercel.app)
@@ -61,10 +63,10 @@ const aboutMe = {
   <img src="https://user-images.githubusercontent.com/76947258/194179021-4129d525-13ce-4ee5-be6f-295677bc7668.gif" alt="This is an image" width='600px'>
 </p>
 
-# 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 
 # 👻[LinkedIn](https://www.linkedin.com/in/daniel-mateu-pardo/)
+# 📫[My portfolio](https://daniel-mateu.vercel.app/)
+# 🎵[Soundcloud](https://soundcloud.com/danielmateupardo) 
 # 🥨[Instagram](https://www.instagram.com/danimateu86/)
-# 📫[My portfolio](https://daniel-mateu-portfolio.vercel.app/)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmateu)](https://github.com/danielmateu/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmateu)](https://github.com/danielmateu/github-readme-stats) -->
