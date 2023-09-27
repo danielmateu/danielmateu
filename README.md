@@ -33,6 +33,7 @@ const aboutMe = {
 
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
+- 😱[Discord Clone](https://discord-nuk-14afb897aa1f.herokuapp.com/)
 - 🏠[Airbnb Clone](https://my-places-chi.vercel.app/)
 - 🐶[NUKO IA](https://ai-sass-mu.vercel.app/)
 - 🧙‍♂️[Dudes AI](https://ai-dudes.vercel.app/)
