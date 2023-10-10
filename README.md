@@ -3,37 +3,13 @@
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
 🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
 
-<!--
-```
-const aboutMe = {
-  name: "Daniel Mateu",
-  role: "Junior FullStack Developer",
-  data: { 
-      Linkedin: "https://www.linkedin.com/in/daniel-mateu-pardo/",
-      Porfolio: "https://daniel-mateu-portfolio.vercel.app/"
-      Resume: "https://github.com/danielmateu",
-         },
-  motivation: {
-        soft_skills: [“Empathy”, “Reasoning”, “Change management”, “Flexibility”, “Active Learning”],
-        hard_skills: {
-          front_end: [“HTML”, “CSS”, “JS”, “TS”, “ES22”, “ReactJS”, “NextJS”, “Angular”, “Tailwind”, “Bootstrap”, “SASS”],
-          back_end: [“NodeJS”, “Express”, “Docker”, “Postman”, “REST Server”, “Socket Server”, “npm”],
-	  data_base: [“MySQL”, “PostgreSQL”, “MongoDB”],
-          testing: ["JEST", "Cypress"]
-        },
-  project: "Learning everyday as much as I can! 😁",
-       }
-```
-
--->
-
 <p align="center">
   <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
 </p>
 
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
-- 😱[Discord Clone](https://discord-nuk-14afb897aa1f.herokuapp.com/)
+- 😱[Discord Clone](https://nukitord-8fcd1b4a9158.herokuapp.com)
 - 🏠[Airbnb Clone](https://my-places-chi.vercel.app/)
 - 🐶[NUKO IA](https://ai-sass-mu.vercel.app/)
 - 🧙‍♂️[Dudes AI](https://ai-dudes.vercel.app/)
