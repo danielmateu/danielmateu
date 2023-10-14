@@ -1,7 +1,7 @@
 # Hi, it's @danielmateu here! 
 
-🐶 I’m interested in create projects to help friends and familly to improve their business around the web.  
-🌱 I’m currently learning NextJs after ReactJs -> It's a long way to the top, but I love it! 😁
+🐶 I’m interested in create projects to help friends and familly to improve their business around the www.
+It's a long way to the top, but I love it! 😁
 
 <p align="center">
   <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
@@ -31,7 +31,6 @@
 # Of course you can also review my repositories if you want! 🥰
 
 👾 I’m looking to collaborate on ReactJS projects as a Front End developer.
-
 
 ````
 💀 Do you want to reach me? 👇
