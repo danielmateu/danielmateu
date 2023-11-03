@@ -1,6 +1,6 @@
 # Hi, it's @danielmateu here! 
 
-🐶 I’m interested in create projects to help friends and familly to improve their business around the www.
+🐶 I’m interested in create projects to help friends and familly to improve their business around the web.
 It's a long way to the top, but I love it! 😁
 
 <p align="center">
