@@ -22,10 +22,7 @@ It's a long way to the top, but I love it! 😁
 - 🎸[Bandnames](https://bandnames-vite.vercel.app/)
 - 🚙[SolidCamper Store](https://solidcamper.herokuapp.com/)
 - 💸[Cripto-App](https://cryptos-psi.vercel.app/)
-- 😈[Pokedex](https://pokemon-static-ngdj275rn-danielmateu.vercel.app/)
 - ❌[TIC-TAC-TOE](https://tic-tac-toe-ecru-two.vercel.app/)
-- ☕[Quiosco-app-Next, Prisma, Tailwind](https://quiosco-app-next.vercel.app/)
-- 🎸[GuitarLA-NEXT](https://guitarla-next-black-mu.vercel.app/)
 - 🗓️[MernCalendar](https://mern-calendar-dmateu.herokuapp.com)
 - ♣️[Black Jack](https://black-jack-seven.vercel.app/)
 
