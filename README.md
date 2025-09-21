@@ -3,10 +3,6 @@
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.
 It's a long way to the top, but I love it! 😁
 
-<p align="center">
-  <img src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js.png" alt="This is an image">
-</p>
-
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
 - ✏️[Notion Clone](https://nukotion-owlh0l4w7-danielmateu.vercel.app/)
