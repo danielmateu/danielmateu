@@ -1,7 +1,7 @@
 # Hi, it's @danielmateu here! 
 
 🐶 I’m interested in create projects to help friends and familly to improve their business around the web.
-It's a long way to the top, but I love it! 😁
+It's a long way to the top, but I love it!
 
 # 😅By the way, you can take a look to my last projects, don't gonna change the world, but...
 
